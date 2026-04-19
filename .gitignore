@@ -1,0 +1,41 @@
+# Environment
+.env
+.venv
+venv/
+env/
+
+# Data & Temp
+data/
+*.pdf
+active.pdf
+resume_temp.pdf
+resume_current.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
